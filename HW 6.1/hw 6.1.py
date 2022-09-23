@@ -10,3 +10,4 @@ while num_height >= 2:
         num_width -= 1
     num_height -= 1
     print()
+
